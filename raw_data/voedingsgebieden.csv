@@ -1,0 +1,609 @@
+voedingsgebied_id;jaar;aanwezige_transportcapaciteit_invoeding;aanwezige_transportcapaciteit_afname;benodigde_transportcapaciteit_invoeding;benodigde_transportcapaciteit_afname;unieke_verzoeken_invoeding;unieke_verzoeken_afname;wachtrij_invoeding;wachtrij_afname;voorspelde_capaciteit_invoeding;voorspelde_capaciteit_afname;info;congestie_url;jaartal_opgelost_invoeding;jaartal_opgelost_afname;start;eind;kwartaal;RNB;provincie
+118065277_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+AMLM;2026;78,49;83,56;24,7147903895079;79,35882656263163;44,0;42,0;39,418;10,555;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2029,0;;;;Coteq, Enexis;Overijssel
+AMLU;2026;62,43;65,55;26,5896188005134;35,28931932031989;35,0;18,0;36,056;18,514;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2025,0;;;;Coteq, Enexis;Overijssel
+ARI;2026;98,51;108,77;112,9359588454428;73,62383762753626;61,0;89,0;70,009;49,321;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Noord-Brabant
+Amstelveen;2026;63,0;56,0;16,0;53,0;;23,0;;5,17136;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+BBS;2026;21,6;21,6;9,031060977718099;24,60827677178901;15,0;27,0;6,632;5,88;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Noord-Brabant
+BD;2026;174,23;187,14;53,28280136359254;150,9263238035875;60,0;187,0;16,15;69,754;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2028,0;;;;Enexis;Noord-Brabant
+BEEK;2026;129,18;43,19;36,1095289356516;36,85897647350635;28,0;44,0;51,279;27,641;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2029,0;;;;Enexis;Limburg
+BELF;2026;79,8;86,39;53,9797998;41,96711796757404;23,0;44,0;7,369;12,407;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2032,0;2025,0;;;;Enexis;Limburg
+BGMR;2026;82,45;94,05;35,2085563104878;56,44487441007816;58,0;36,0;71,072;26,456;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Drenthe
+BL;2026;172,77;172,77;56,5868215893876;63,43416344324778;35,0;25,0;70,898;17,279;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Drenthe, Overijssel
+BLER;2026;110,2;122,44;23,536895571343;89,9765740142801;51,0;101,0;15,227;43,51;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2033,0;;;;Enexis;Limburg
+BOEK;2026;181,94;195,23;90,47247224;39,97596212304079;40,0;65,0;38,542;159,772;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2033,0;;;;Enexis;Limburg
+BORN;2026;148,41;148,81;47,6468942;61,65787070983293;27,0;43,0;17,697;70,461;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Limburg
+BOSP;2026;41,0;43,19;9,3013451377025;22,22995690406448;9,0;12,0;1,497;4,312;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Limburg
+BOZ;2026;175,06;177,96;36,32809030789191;76,45031667169992;45,0;71,0;44,68;63,232;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Noord-Brabant
+BT;2026;90,18;101,05;55,0973141674948;82,81428033084103;51,0;133,0;27,226;41,264;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2028,0;;;;Enexis;Noord-Brabant
+BUGG;2026;173,17;174,94;41,9203902055709;135,3065759228184;42,0;49,0;48,617;68,027;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2033,0;;;;Enexis;Limburg
+BXT;2026;37,46;41,62;18,3478886024481;38,45897970664121;12,0;39,0;9,333;22,613;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Noord-Brabant
+Bijlmer Noord 10kV totaal;2026;62,0;50,0;0,0;53,0;;27,0;;15,74006;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+CALF;2026;66,21;79,46;57,065449;37,221011378;6,0;9,0;15,9;0,434;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2034,0;2025,0;;;;Enexis;Limburg
+CM00;2026;55,0;;94,426;;10,0;20,0;17,094;14,677;;;;;2030,0;;;;;Stedin;Zeeland
+CM07;2026;4,1;;7,096;;1,0;7,0;;3,831;;;;;2026,0;;;;;Stedin;Zuid-Holland
+CM08;2026;10,0;;16,2;;9,0;13,0;4,475;3,937;;;;;2026,0;;;;;Stedin;Zuid-Holland
+CM09;2026;;30,4;;30,8;0,0;21,0;0,0;8,771;;;;;;2029,0;;;;Stedin;Utrecht
+CM10;2026;;45,0;;39,07;10,0;30,0;74,859;6,009;;;;;;2029,0;;;;Stedin;Utrecht
+CM11;2026;;40,0;;37,315;16,0;32,0;3,54;10,374;;;;;;2029,0;;;;Stedin;Utrecht
+CM12;2026;;40,0;;43,1;9,0;21,0;0,957;6,759;;;;;;2035,0;;;;Stedin;Noord-Holland, Utrecht
+CM13;2026;;28,0;;23,61;15,0;18,0;1,566;5,92;;;;;;2033,0;;;;Stedin;Utrecht, Zuid-Holland
+CM14;2026;;40,0;;32,808;9,0;20,0;1,589;7,861;;;;;;2030,0;;;;Stedin;Utrecht
+CM15;2026;;28,0;;29,173;14,0;15,0;1,631;1,772;;;;;;2029,0;;;;Stedin;Utrecht
+CM18;2026;;100,0;;102,5;0,0;3,0;0,0;79,71;;;;;;;;;;Stedin;Zeeland
+CM19/30;2026;10,0;10,0;11,7;9,2;4,0;2,0;0,478;;;;;;2028,0;2028,0;;;;Stedin;Zuid-Holland
+CM20;2026;45,0;;53,712;;10,0;6,0;3,866;1,078;;;;;2028,0;;;;;Stedin;Zuid-Holland
+CM22;2026;;175,0;;153,1;0,0;23,0;0,0;57,205;;;;;;2031,0;;;;Stedin;Gelderland, Utrecht, Zuid-Holland
+CM23;2026;45,4;;46,2;;2,0;2,0;;;;;;;2032,0;;;;;Stedin;Zuid-Holland
+CM24;2026;22,5;;30,043;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+CM26;2026;;100,0;;76,9;0,0;56,0;0,0;33,605;;;;;;2033,0;;;;Stedin;Zuid-Holland
+CM28;2026;;4,1;;4,836;0,0;7,0;0,0;3,244;;;;;;2027,0;;;;Stedin;Zuid-Holland
+CM29/45;2026;;36,7;;57,7;3,0;7,0;0,586;1,637;;;;;2029,0;2033,0;;;;Stedin;Zuid-Holland
+CM29/64;2026;150,0;153,9;186,693;153,4;37,0;43,0;14,521;41,433;;;;;2029,0;2031,0;;;;Stedin;Zuid-Holland
+CM31;2026;;29,4;;33,5;0,0;20,0;0,0;7,034;;;;;;2029,0;;;;Stedin;Zuid-Holland
+CM32;2026;10,0;;15,17;;3,0;0,0;3,665;0,0;;;;;2026,0;;;;;Stedin;Zuid-Holland
+CM33;2026;10,0;;15,991;;3,0;0,0;1,518;0,0;;;;;2026,0;;;;;Stedin;Zuid-Holland
+CM34/46;2026;18,0;18,0;20,086;20,449;5,0;17,0;0,84;6,76;;;;;2028,0;2028,0;;;;Stedin;Zeeland
+CM35/72;2026;18,0;18,8;25,022;15,8;4,0;5,0;1,093;1,713;;;;;2027,0;2032,0;;;;Stedin;Zuid-Holland
+CM36;2026;;20,4;;18,702;3,0;7,0;0,158;2,365;;;;;;2032,0;;;;Stedin;Utrecht
+CM37;2026;;42,1;;40,252;14,0;20,0;2,817;8,161;;;;;;2032,0;;;;Stedin;Utrecht
+CM38;2026;;59,3;;50,532;18,0;30,0;3,411;8,981;;;;;;2031,0;;;;Stedin;Utrecht
+CM39;2026;200,0;;195,417;;46,0;91,0;13,433;48,756;;;;;2035,0;;;;;Stedin;Utrecht
+CM40;2026;45,0;;63,044;;8,0;8,0;1,209;1,555;;;;;2030,0;;;;;Stedin;Utrecht
+CM41;2026;70,0;;89,8;;2,0;2,0;;;;;;;2035,0;;;;;Stedin;Utrecht
+CM43;2026;100,0;;100,557;;0,0;13,0;0,0;25,148;;;;;;;;;;Stedin;
+CM44;2026;140,0;;270,167;;4,0;9,0;3,499;2,547;;;;;2031,0;2035,0;;;;Stedin;Zeeland
+CM47;2026;;120,0;;115,0;0,0;32,0;0,0;13,222;;;;;;2031,0;;;;Stedin;Zuid-Holland
+CM48;2026;;117,0;;124,7;0,0;6,0;0,0;0,665;;;;;;2031,0;;;;Stedin;Zuid-Holland
+CM49;2026;;38,0;;36,0;0,0;9,0;0,0;0,452;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM50;2026;;38,0;;30,4;0,0;0,0;0,0;0,0;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM51;2026;;12,4;;8,0;0,0;4,0;0,0;0,291;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM52;2026;;38,0;;36,2;0,0;4,0;0,0;1,596;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM53;2026;;38,0;;27,4;0,0;8,0;0,0;2,163;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM54;2026;;19,0;;14,2;0,0;4,0;0,0;4,03;;;;;;2036,0;;;;Stedin;Zuid-Holland
+CM55;2026;;38,0;;30,9;0,0;4,0;0,0;0,831;;;;;;2034,0;;;;Stedin;Zuid-Holland
+CM56;2026;;34,2;;34,7;0,0;12,0;0,0;4,168;;;;;;2034,0;;;;Stedin;Zuid-Holland
+CM56/78;2026;2,9;34,2;5,8;34,7;1,0;0,0;;0,0;;;;;2030,0;2034,0;;;;Stedin;Zuid-Holland
+CM57;2026;;27,0;;37,8;11,0;17,0;1,584;12,19;;;;;;2028,0;;;;Stedin;Utrecht, Zuid-Holland
+CM58;2026;;27,0;;37,8;6,0;6,0;5,475;2,526;;;;;;2028,0;;;;Stedin;Utrecht
+CM59;2026;;360,0;;310,8;5,0;17,0;0,591;3,226;;;;;;2034,0;;;;Stedin;Noord-Holland, Utrecht
+CM60;2026;;360,0;;310,8;21,0;49,0;20,411;28,073;;;;;;2034,0;;;;Stedin;Utrecht
+CM63;2026;;232,2;;236,0;0,0;43,0;0,0;28,927;;;;;;2035,0;;;;Stedin;Zuid-Holland
+CM66;2026;;26,1;;29,5;0,0;4,0;0,0;1,745;;;;;;2027,0;;;;Stedin;Zuid-Holland
+CM71;2026;;;;;0,0;5,0;0,0;37,217;;;;;;2028,0;;;;Stedin;Zeeland
+CM73;2026;;;;;7,0;18,0;3,214;10,073;;;;;2032,0;2032,0;;;;Stedin;Zeeland
+CM74;2026;;;;;0,0;23,0;0,0;132,173;;;;;;2030,0;;;;Stedin;Zuid-Holland
+CM76;2026;;39,0;;45,4;0,0;20,0;0,0;4,178;;;;;;2031,0;;;;Stedin;Zuid-Holland
+CM77;2026;;;;;0,0;18,0;0,0;24,208;;;;;;2034,0;;;;Stedin;Zuid-Holland
+CM79;2026;;;;;1,0;5,0;;155,601;;;;;2031,0;2031,0;;;;Stedin;Zeeland
+CM80;2026;;;;;0,0;17,0;0,0;11,41;;;;;;2036,0;;;;Stedin;Zeeland
+CM84;2026;;;;;0,0;17,0;0,0;15,644;;;;;;2029,0;;;;Stedin;Zuid-Holland
+CM85;2026;;;;;0,0;9,0;0,0;5,291;;;;;;2029,0;;;;Stedin;Zuid-Holland
+CU;2026;41,47;41,47;18,1390895330267;25,3615391972935;7,0;17,0;4,69;24,475;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2033,0;;;;Enexis;Noord-Brabant
+CVD;2026;154,39;156,6;107,063803305;56,47516034021968;12,0;39,0;81,247;21,644;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Drenthe, Overijssel
+DDV;2026;43,19;43,19;26,1291993;20,03265247450743;14,0;25,0;5,317;12,219;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2025,0;;;;Enexis;Drenthe, Overijssel
+DTO;2026;132,43;158,91;116,610583;93,59298405478862;12,0;25,0;51,312;67,877;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2028,0;;;;Enexis;Noord-Brabant
+DVTB;2026;69,73;71,98;29,25777182;49,08291984931731;44,0;48,0;8,965;10,1;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Gelderland, Overijssel
+DVTP;2026;62,43;62,43;16,9159494;42,48120523907171;24,0;18,0;3,869;5,665;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2028,0;;;;Enexis;Overijssel
+De Lier;2026;315,0;315,0;240,0;104,0;0,0;0,0;0,0;0,0;;;;;;;;;;Westland;Zuid-Holland
+EHAVM;2026;345,54;350,09;170,6716532434013;121,8020525109585;5,0;3,0;6,345;8,182;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Groningen
+EHAVO;2026;155,49;149,78;122,1861246134258;69,85048758452098;0,0;2,0;0,0;0,124;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Groningen
+EHVN;2026;108,85;111,14;14,5597837;105,2457172484378;38,0;151,0;35,628;124,627;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Noord-Brabant
+EHVO;2026;190,21;207,33;51,9880145102912;146,17687579057;48,0;150,0;7,588;56,35;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2030,0;;;;Enexis;Noord-Brabant
+EHVW;2026;88,99;98,48;30,1368547;85,51241965497967;71,0;116,0;35,988;53,328;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;;;;;Enexis;Noord-Brabant
+EHVZ;2026;158,42;166,78;15,4899484941672;126,6472647638918;26,0;71,0;5,213;23,412;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2030,0;;;;Enexis;Noord-Brabant
+EMW;2026;43,7;45,54;36,40231147428651;34,79911001801767;18,0;9,0;27,498;5,138;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Drenthe, Groningen
+ERD;2026;142,65;151,8;93,82474401055158;145,172141404681;109,0;182,0;76,961;87,494;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2028,0;;;;Enexis;Noord-Brabant
+ESDH;2026;69,08;69,08;1,4327350696102;47,50950836866119;20,0;38,0;1,862;9,544;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Overijssel
+ESDM;2026;41,8;41,8;5,058799063309;20,88178699557878;22,0;28,0;10,6;16,478;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Overijssel
+ESDV;2026;62,43;64,46;16,311546595044;38,71536317396945;16,0;18,0;2,84;5,776;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Overijssel
+ESDW;2026;43,58;43,58;32,8202465;38,4328929838382;0,0;10,0;0,0;3,746;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2029,0;;;;Enexis;Overijssel
+ETN;2026;173,62;181,31;99,68591896917478;103,5247427700432;107,0;142,0;45,941;55,439;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2028,0;;;;Enexis;Noord-Brabant
+Emmeloord inst. 2+3;2026;44,0;44,0;34,0;38,0;37,0;67,0;7,831;17,25862;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+GENN;2026;86,39;86,39;25,1648667;34,59050945544289;28,0;17,0;11,963;4,17;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Limburg
+GLTK;2026;113,16;116,98;99,51766079000001;51,18541097596385;20,0;12,0;4,24;1,925;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2025,0;;;;Enexis;Drenthe
+GNBH;2026;106,88;108,11;47,67954109999999;77,97784197906307;36,0;54,0;9,752;11,175;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Groningen
+GNBS;2026;41,02;41,02;7,89540160455;30,09334205958637;6,0;7,0;0,217;0,33;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Groningen
+GNHK;2026;86,39;86,39;10,6538405;96,22414333537536;22,0;31,0;6,06;59,473;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Groningen
+GNHU;2026;86,19;86,19;25,1355117;33,06542777499823;17,0;7,0;3,133;2,165;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Drenthe, Groningen
+GO;2026;72,2;72,2;53,312026782037;42,11314562132139;17,0;30,0;4,385;3,9109999999999996;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2025,0;;;;Coteq, Enexis;Overijssel
+GT;2026;127,67;134,89;56,00222312739231;79,4277637486555;87,0;100,0;86,057;50,502;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2028,0;;;;Enexis;Noord-Brabant
+HBG;2026;41,02;41,02;34,9887035;27,04210980782274;16,0;29,0;3,861;8,873;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Gelderland, Overijssel
+HDB;2026;47,08;50,98;40,2157109446469;41,3205346837746;44,0;61,0;28,569;13,503;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2027,0;2027,0;;;;Enexis;Overijssel
+HEER;2026;40,0;44,22;13,13459430008;39,59483174532721;13,0;43,0;3,3;12,588;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Limburg
+HELD;2026;158,59;172,77;124,9010751875328;38,07805100862328;45,0;77,0;50,014;39,677;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2025,0;;;;Enexis;Limburg
+HGLB;2026;37,94;38,31;53,4695457385004;35,85884861619001;17,0;43,0;25,43;13,537;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2027,0;;;;Enexis;Overijssel
+HGLW;2026;101,66;101,97;63,69479169120061;92,48443719483308;43,0;50,0;4,91;17,225;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2029,0;;;;Enexis;Overijssel
+HGV;2026;97,53;103,75;83,9694398668153;80,3586547774754;30,0;47,0;9,073;44,509;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2027,0;2025,0;;;;Enexis, Rendo;Drenthe, Overijssel
+HMO;2026;156,69;179,74;40,3969471493974;71,8687775174961;54,0;63,0;24,759;28,819;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Noord-Brabant
+HMZ;2026;103,79;105,85;71,73418900000001;113,1969299903608;117,0;170,0;34,382;55,061;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2029,0;;;;Enexis;Noord-Brabant
+HPS;2026;83,7;91,96;80,1265503580572;75,32712686675946;81,0;96,0;96,22;45,76;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;;;;;Enexis;Noord-Brabant
+HPT;2026;186,9;197,9;74,48747600000002;79,04744369640785;115,0;141,0;43,565;54,876;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Noord-Brabant
+HRST;2026;93,1;102,41;64,046225991529;54,3373332295433;104,0;80,0;74,992;62,206;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Limburg
+HTN;2026;167,2;191,29;73,7150852;172,1834250501364;110,0;278,0;54,245;79,946;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;;;;;Enexis;Noord-Brabant
+HTW;2026;54,42;54,42;45,0762252602011;57,62971055145059;29,0;76,0;14,829;31,589;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2032,0;2032,0;;;;Enexis;Noord-Brabant
+HUSK;2026;55,1;66,12;7,301134064380101;44,97952902471106;26,0;38,0;5,038;10,287;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Limburg
+ISM;2026;43,19;44,58;40,3489575437074;13,27658854598193;27,0;15,0;57,035;26,766;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Overijssel
+KELP;2026;43,58;44,09;21,138333055;16,2470533312;18,0;27,0;2,732;9,204;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Limburg
+KP;2026;63,76;66,64;33,75123896394869;37,27704373654552;36,0;31,0;7,612;11,825;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Gelderland, Overijssel
+KWD;2026;123,49;123,49;49,36711376896929;84,22504058347893;49,0;42,0;25,35;45,288;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2029,0;;;;Enexis;Drenthe, Groningen
+KZVZ;2026;41,8;41,8;40,3596414;14,77330585714081;16,0;2,0;10,751;0,445;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2025,0;;;;Enexis;Drenthe
+LIMM;2026;222,11;237,31;15,3874184;91,8072645303373;28,0;87,0;11,105;61,441;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Limburg
+LS;2026;41,02;41,02;31,588930210036;18,25050227407587;8,0;12,0;30,668;1,733;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Overijssel
+LUTT;2026;86,39;88,75;33,4929302556887;66,82829191749224;26,0;65,0;4,23;13,791;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2027,0;2027,0;;;;Enexis;Limburg
+Lemmer 10kV;2026;36,0;36,0;33,0;39,0;33,0;34,0;8,338;10,94688;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Friesland, Overijssel
+MAK;2026;56,43;56,43;;;25,0;53,0;6,368;25,662;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;;;;;Enexis;Drenthe
+MDK;2026;349,87;344,75;154,4758514028897;197,9888272581972;78,0;108,0;105,174;158,298;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2027,0;;;;Enexis;Noord-Brabant
+MEE;2026;347,15;344,77;127,7953438750015;163,6106561580577;15,0;16,0;7,371;13,451;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2026,0;;;;Enexis;Groningen
+MLBK;2026;99,65;99,65;11,67263742;52,18948497407106;24,0;28,0;12,664;11,677;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2026,0;;;;Enexis;Limburg
+MP;2026;74,82;79,79;60,519359505;73,41828330380476;63,0;82,0;40,375;28,015;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;;;;;Enexis;Drenthe, Overijssel
+MRUM;2026;128,75;129,19;17,0883401718522;36,15378112204831;15,0;21,0;8,022;32,821;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2026,0;;;;Enexis;Limburg
+MSBT;2026;86,42;92,84;50,0089091;61,60272018541617;59,0;70,0;57,927;14,674;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2034,0;2025,0;;;;Enexis;Limburg, Noord-Brabant
+MSKZ;2026;129,58;129,58;95,32300616497531;28,52591277072381;23,0;7,0;52,469;10,127;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Drenthe, Groningen
+MZ;2026;81,89;86,39;110,6187670492216;48,12028325218296;38,0;96,0;124,612;64,034;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2028,0;;;;Enexis;Limburg, Noord-Brabant
+Medemblik Transformator 1;2026;40,0;0,0;14,0;1,0;;7,0;;1,62892;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+NEDW;2026;135,46;136,61;51,600023;47,06654050760054;82,0;76,0;39,157;20,308;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Limburg
+NVD;2026;87,19;87,19;23,7470298;38,85328793102319;21,0;30,0;2,493;6,355;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Overijssel
+ODZ;2026;92,04;94,49;44,2641892394088;58,2034660731784;35,0;49,0;7,3069999999999995;10,24;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Coteq, Enexis;Overijssel
+OL;2026;43,19;43,19;18,2312826024092;18,31765919235416;8,0;7,0;52,754;2,785;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2034,0;2025,0;;;;Enexis;Overijssel
+OMD;2026;34,42;34,57;42,35814299999999;33,37563257875917;25,0;39,0;4,868;13,34;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2028,0;;;;Enexis;Drenthe, Overijssel
+OS;2026;132,43;150,79;75,52459193000001;126,8201848370443;56,0;143,0;12,678;46,767;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Noord-Brabant
+OS 'S-GRAVELAND 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2029,0;;;;Liander;Flevoland, Noord-Holland
+OS 'S-GRAVELAND 50-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;;;;Liander;Noord-Holland, Utrecht
+OS AALSMEER BLOEMENVEILING 10-1i;2026;36,0;36,0;20,0;51,0;8,0;38,0;4,306;22,99782;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2034,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS AALSMEER BLOEMENVEILING 10-2i;2026;36,0;36,0;14,0;32,0;;11,0;;12,93014;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS ALKMAAR 10-1i;2026;40,0;40,0;11,0;40,0;11,0;20,0;0,952;6,64408;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2035,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS ALMERE 10-1i;2026;104,0;59,0;30,0;67,0;34,0;39,0;7,935;8,2189;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ALPHEN CENTRUM 10-1i;2026;63,0;47,0;9,0;21,0;;13,0;;4,17794;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS ALPHEN CENTRUM 10-2i;2026;35,0;23,0;6,0;20,0;;8,0;;2,34046;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS ALPHEN WEST 10-1i;2026;49,0;42,0;34,0;43,0;12,0;31,0;24,889;57,55908;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2028,0;2027,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS AMSTELVEEN BOLWERK 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS ANNA PAULOWNA 10-2i;2026;88,0;44,0;44,0;29,0;36,0;24,0;5,797;6,10048;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS APELDOORN 10-1i;2026;86,0;57,0;0,0;47,0;20,0;37,0;4,825;8,44726;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS APELDOORN 10-2i;2026;92,0;64,0;6,0;51,0;20,0;52,0;2,589;12,62744;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2036,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ARNHEM 10-1i;2026;144,0;72,0;17,0;64,0;26,0;67,0;6,065;15,5684;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2035,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS BASISWEG 10-1i;2026;74,0;66,0;5,0;53,0;;28,0;;16,02558;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS BASISWEG 10-2i;2026;41,0;33,0;14,0;12,0;;4,0;;7,314;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS BERGUM CENTRALE 10-1i;2026;45,0;45,0;25,0;27,0;23,0;8,0;8,898;5,6062;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland, Groningen
+OS BERGUM CENTRALE 10-2i;2026;17,0;17,0;24,0;32,0;30,0;19,0;5,173;3,81204;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2028,0;2028,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS BERGUM KOUMARWEI 20-1i;2026;88,0;88,0;52,0;8,0;4,0;;46,748;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS BEVERWIJK 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;;;;Liander;Noord-Holland
+OS BIJLMER NOORD 20-4i;2026;145,0;88,0;0,0;62,0;;45,0;;57,69206;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS BIJLMER ZUID 10-1i;2026;112,0;100,0;0,0;65,0;;28,0;;24,03586;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS BORCULO 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Gelderland, Overijssel
+OS BORCULO 20-3i;2026;171,0;85,0;102,0;27,0;26,0;31,0;45,745;54,2733;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2036,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS CRAILO 10-1i;2026;36,0;36,0;4,0;17,0;;7,0;;0,6171;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS CULEMBORG 10-1i;2026;66,0;49,0;45,0;39,0;38,0;71,0;15,032;24,826;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2036,0;2035,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS CULEMBORG 10-2i;2026;36,0;18,0;18,0;11,0;;7,0;;0,89042;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2035,0;2035,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS CULEMBORG 10-9i;2026;23,0;12,0;10,0;12,0;11,0;18,0;2,758;6,68826;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2035,0;2035,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DALE 10-1i;2026;76,0;57,0;61,0;68,0;41,0;66,0;10,704;10,3935;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DE VAART 10-1i;2026;116,0;69,0;16,0;41,0;45,0;43,0;20,064;14,13222;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS DE VAART 10-3i;2026;92,0;57,0;27,0;16,0;6,0;12,0;10,785;17,9648;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS DE WEEL 20-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2026,0;;;;Liander;Noord-Holland
+OS DEN HELDER DE SCHOOTEN 10-2i;2026;89,0;44,0;28,0;18,0;23,0;21,0;3,394;9,44018;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS DEN HELDER VOGELWIJK 10-1i;2026;20,0;20,0;4,0;14,0;;13,0;;22,81468;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS DODEWAARD 10-1i;2026;96,0;48,0;35,0;38,0;39,0;28,0;14,73;5,87416;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DODEWAARD 10-3i;2026;96,0;48,0;53,0;10,0;9,0;23,0;12,687;33,44748;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DOETINCHEM 10-3i;2026;138,0;69,0;14,0;62,0;38,0;45,0;10,576;6,41094;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DOETINCHEM 10-5i;2026;106,0;49,0;33,0;36,0;29,0;39,0;10,161;10,37272;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2026,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DOETINCHEM 20-6i;2026;88,0;88,0;28,0;31,0;22,0;53,0;6,455;18,87868;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DOETINCHEM 20-7i;2026;88,0;88,0;4,0;66,0;11,0;10,0;2,054;2,93806;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DOKKUM 10-1i;2026;22,0;22,0;16,0;13,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS DOKKUM 20kV 20-1i;2026;55,0;55,0;41,0;44,0;16,0;14,0;8,969;15,77582;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS DRACHTEN 10-1i;2026;90,0;45,0;53,0;54,0;28,0;16,0;10,34;14,0688;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2034,0;2034,0;2026-01-01;2026-12-31;4;Liander;Friesland, Groningen
+OS DRACHTEN 10-2i;2026;50,0;50,0;24,0;43,0;23,0;11,0;7,891;3,66678;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2034,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS DRONTEN 10-1i;2026;117,0;72,0;45,0;57,0;66,0;75,0;13,902;10,10102;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland, Noord-Holland
+OS DRONTEN 20KV 20-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Flevoland
+OS DRUTEN 10-1i;2026;88,0;44,0;81,0;36,0;33,0;36,0;49,984;6,41912;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2027,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS DUKENBURG 10-1i;2026;54,0;36,0;9,0;35,0;10,0;17,0;1,379;5,01184;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS EDAM 10-1i;2026;30,0;20,0;8,0;20,0;;10,0;;6,2097;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS EDAM 10-2i;2026;48,0;24,0;11,0;24,0;7,0;19,0;1,104;2,90736;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2026,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS EDE 10-1i;2026;66,0;44,0;12,0;34,0;17,0;21,0;1,66;3,48697;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland, Noord-Holland
+OS EDE 10-2i;2026;91,0;69,0;52,0;73,0;55,0;77,0;16,053;23,84612;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland, Utrecht
+OS EERBEEK 10-1i + 10-2i;2026;104,0;69,0;51,0;70,0;29,0;32,0;23,942;35,69784;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS EIBERGEN 10-3i;2026;55,0;55,0;29,0;27,0;9,0;7,0;2,642;9,1214;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland, Noord-Holland, Overijssel
+OS ELST 10-1i;2026;104,0;69,0;31,0;45,0;23,0;37,0;6,049;9,66676;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ELST 10-2i;2026;80,0;46,0;8,0;34,0;17,0;33,0;11,31;12,16426;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS EMMELOORD 10-1i;2026;73,0;46,0;32,0;24,0;35,0;29,0;11,707;8,912;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS EMMELOORD 20-5i;2026;145,0;88,0;39,0;51,0;32,0;19,0;24,272;23,89664;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ENKHUIZEN 10-1i;2026;73,0;36,0;19,0;32,0;10,0;18,0;4,421;12,70654;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2034,0;2026-01-01;2026-12-31;4;Liander;Flevoland, Noord-Holland
+OS ENKHUIZEN 10-2i;2026;73,0;36,0;4,0;23,0;;11,0;;8,2069;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS FRANKENENG 10-1i;2026;29,0;29,0;6,0;27,0;20,0;55,0;6,809;13,44315;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Utrecht
+OS FREDERIKSPLEIN 10-1i;2026;77,0;57,0;0,0;42,0;;10,0;;3,17514;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS GORREDIJK 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2027,0;2027,0;;;;Liander;Friesland
+OS HAARLEMMERMEER 10-1i;2026;53,0;47,0;23,0;55,0;;17,0;;4,6774;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HAARLEMMERMEER 20-2i;2026;88,0;88,0;0,0;139,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2026,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HARDERWIJK 10-1i;2026;72,0;48,0;22,0;47,0;32,0;52,0;7,251;10,50556;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland, Gelderland
+OS HARDERWIJK 10-2i;2026;97,0;73,0;37,0;67,0;37,0;50,0;8,556;9,06407;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS HARSELAAR 10-1i;2026;70,0;70,0;32,0;44,0;42,0;48,0;7,639;7,31856;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS HARSELAAR 20-3i;2026;94,0;94,0;64,0;76,0;52,0;85,0;66,374;80,04207;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Utrecht
+OS HATTEM 10-1i;2026;89,0;60,0;38,0;45,0;39,0;38,0;10,482;32,37932;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2028,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Overijssel
+OS HEERENVEEN 10-1i;2026;83,0;55,0;32,0;34,0;15,0;21,0;15,967;7,09088;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS HEERHUGOWAARD 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS HERBAYUM 10-1i;2026;55,0;39,0;40,0;32,0;30,0;18,0;10,595;13,95474;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS HERBAYUM 10-2i;2026;57,0;23,0;16,0;27,0;6,0;;1,721;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS HERBAYUM 20KV 20-1i;2026;65,0;65,0;40,0;21,0;17,0;7,0;28,806;4,97902;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS HERBAYUM 20KV 20-2i;2026;139,0;65,0;61,0;43,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS HILLEGOM 10-1i;2026;23,0;23,0;12,0;22,0;;21,0;;3,55904;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS HILVERSUM JONKERWEG 10-1i;2026;36,0;36,0;2,0;30,0;;17,0;;2,15876;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HILVERSUM RAAFSTRAAT 10-1i;2026;36,0;36,0;4,0;28,0;;19,0;;3,32522;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland, Utrecht
+OS HOOFDDORP 10-1i;2026;34,0;22,0;18,0;23,0;11,0;43,0;12,162;28,07988;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2038,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HOOFDDORP 10-2i;2026;32,0;19,0;8,0;27,0;;46,0;;12,95876;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2038,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HOOGTE KADIJK 10-1i;2026;52,0;52,0;0,0;41,0;;5,0;;0,86432;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HOOGTE KADIJK 10-2i;2026;28,0;22,0;0,0;20,0;;4,0;;0,40582;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HOORN GELDELOZEWEG 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;;;;Liander;Noord-Holland
+OS HOORN HOLENWEG 10-1i;2026;36,0;20,0;16,0;24,0;;20,0;;5,61376;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HOORN HOLENWEG 10-2i;2026;40,0;20,0;6,0;12,0;;9,0;;5,37822;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS HUIZEN 10-1i;2026;36,0;36,0;13,0;30,0;;20,0;;2,4533;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland, Utrecht
+OS Heiloo 10-1i + 10-2i;2026;29,0;29,0;25,0;36,0;16,0;23,0;2,158;3,71058;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS IJBURG 20-2i;2026;110,0;88,0;8,0;25,0;;4,0;;2,854;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS IJMUIDEN 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS IJPOLDER 10-4i;2026;56,0;32,0;28,0;51,0;;13,0;;19,42038;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS KARPERWEG 10-3i;2026;60,0;40,0;0,0;25,0;;5,0;;0,32704;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS KARPERWEG 10-4i;2026;60,0;40,0;0,0;25,0;;10,0;;2,2169;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS KATTENBERG (D 219) 10-1i;2026;51,0;33,0;0,0;28,0;19,0;30,0;2,775;8,3928;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS KATWIJK 10-2i;2026;22,0;22,0;1,0;19,0;;5,0;;2,41146;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS KATWIJK 10-3i;2026;22,0;22,0;4,0;19,0;;5,0;;1,08858;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS KROMMENIE 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;;;;Liander;Noord-Holland
+OS LEEUWARDEN 10-1i;2026;79,0;53,0;61,0;43,0;42,0;19,0;10,117;8,34982;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2027,0;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS LEEUWARDEN 10-4i;2026;92,0;57,0;17,0;51,0;24,0;39,0;6,434;19,32136;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS LEIDEN NOORD 10-1i;2026;70,0;70,0;0,0;61,0;;30,0;;14,03092;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2035,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS LEIDEN ZUID WEST 10-1i;2026;40,0;40,0;9,0;39,0;;16,0;;9,2785;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2030,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS LEIDERDORP 10-1i;2026;28,0;22,0;6,0;24,0;;13,0;;2,60538;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland, Zuid-Holland
+OS LEIMUIDEN 10-2i;2026;60,0;35,0;21,0;26,0;5,0;13,0;3,615;4,81958;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland, Noord-Holland, Zuid-Holland
+OS LELYSTAD 10-1i;2026;66,0;38,0;12,0;18,0;18,0;24,0;11,979;8,09286;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS LEMMER 20-4i;2026;145,0;88,0;64,0;62,0;19,0;12,0;8,673;2,34412;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Flevoland, Friesland
+OS LISSE 10-1i;2026;44,0;44,0;10,0;20,0;;9,0;;2,47298;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland, Zuid-Holland
+OS LISSE 10-2i;2026;22,0;22,0;4,0;7,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS LOCHEM 10-1i;2026;91,0;46,0;50,0;33,0;18,0;27,0;10,022;19,64034;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2028,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS LUTTELGEEST 20-1i;2026;182,0;91,0;79,0;86,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS MARNEZIJL 10-2i;2026;39,0;18,0;21,0;6,0;12,0;14,0;2,662;2,27356;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS MARNEZIJL 20-3i;2026;110,0;62,0;31,0;34,0;8,0;4,0;1,259;3,05168;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2029,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS MARNIXSTRAAT 10-1i;2026;74,0;66,0;0,0;43,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS MARNIXSTRAAT 10-2i;2026;28,0;22,0;0,0;19,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS MEDEMBLIK 10-1i;2026;20,0;20,0;2,0;5,0;;6,0;;2,0156;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS MEDEMBLIK 10-2i;2026;20,0;20,0;18,0;16,0;17,0;20,0;5,286;5,68694;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS MIDDENMEER 20-2i;2026;176,0;88,0;106,0;15,0;39,0;28,0;18,342;14,47524;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS NAARDEN 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS NIEUW VENNEP 10-1i;2026;36,0;36,0;32,0;45,0;;20,0;;7,34376;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS NIEUWE MEER 10-1i;2026;45,0;36,0;0,0;37,0;;13,0;;8,30136;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS NIEUWKOOP 10-1i;2026;61,0;48,0;18,0;21,0;;10,0;;5,3468;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS NIJKERK 10-1i;2026;65,0;33,0;10,0;27,0;22,0;36,0;4,657;6,41298;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS NIJKERK 10-2i;2026;65,0;33,0;27,0;27,0;21,0;20,0;2,931;2,55696;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Utrecht
+OS NOORD PAPAVERWEG 10-1i;2026;100,0;68,0;0,0;72,0;;84,0;;23,32092;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS NOORDWIJK 10-1i;2026;22,0;22,0;8,0;20,0;;9,0;;1,10738;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Zuid-Holland
+OS NUNSPEET 10-1i;2026;32,0;32,0;6,0;26,0;5,0;14,0;2,878;5,28598;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS NUNSPEET 10-2i;2026;29,0;29,0;19,0;33,0;20,0;23,0;15,022;12,66972;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Overijssel
+OS OOSTERBEEK 10-1i;2026;55,0;34,0;5,0;18,0;12,0;15,0;2,943;6,73208;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS OOSTERHOUT 20-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;;;;Liander;Gelderland
+OS OOSTERHOUT 20-2i;2026;176,0;88,0;81,0;23,0;21,0;17,0;89,186;104,41768;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS OOSTERWOLDE 10-1i;2026;36,0;36,0;37,0;27,0;31,0;11,0;5,377;3,4053;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;;2026-01-01;2026-12-31;4;Liander;Drenthe, Friesland, Groningen
+OS OOSTERWOLDE 10-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;;;;;Liander;Friesland
+OS OTERLEEK 10-2i;2026;42,0;23,0;20,0;24,0;13,0;14,0;5,492;5,22068;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS OTERLEEK 10-4i;2026;41,0;23,0;21,0;23,0;25,0;26,0;8,658;7,53842;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS OUDEHASKE 10-1i;2026;73,0;44,0;38,0;24,0;22,0;15,0;30,46;24,84552;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS OUDEHASKE 10-2i;2026;73,0;37,0;12,0;18,0;7,0;;12,539;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS OUDEHASKE 20-4i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Friesland
+OS OUDEHASKE 20-5i;2026;145,0;91,0;20,0;51,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS OUDORP 10-1i;2026;36,0;36,0;26,0;40,0;20,0;63,0;12,102;28,32516;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2033,0;2033,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS OUDORP 10-2i;2026;19,0;19,0;6,0;17,0;9,0;16,0;0,828;3,44948;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2033,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS OVERVEEN 10-1i;2026;41,0;41,0;5,0;31,0;;12,0;;1,24276;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS OVERVEEN 10-2i;2026;29,0;29,0;6,0;33,0;;9,0;;3,4494;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2028,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS PAMPUS 10-1i;2026;107,0;72,0;45,0;62,0;30,0;58,0;6,333;16,30658;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS PLATVOET 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Gelderland, Overijssel
+OS PRESIKHAAF 10-1i;2026;51,0;44,0;1,0;25,0;17,0;29,0;3,694;3,93528;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS PRESIKHAAF 10-2i;2026;36,0;29,0;12,0;24,0;24,0;42,0;5,836;9,45768;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS PURMEREND KWADIJKERKOOGWEG 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2026,0;;;;Liander;Noord-Holland
+OS PURMEREND SCHAEPMANSTRAAT 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;;;;Liander;Noord-Holland
+OS RAUWERD 10-1i;2026;28,0;17,0;12,0;12,0;12,0;6,0;3,392;0,98088;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS RENKUM 10-1i;2026;55,0;55,0;12,0;43,0;30,0;26,0;18,582;14,4448;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS RHIJNSPOOR 10-1i;2026;84,0;63,0;0,0;62,0;;17,0;;3,9963;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS RIJKSUNIVERSITEIT LEIDEN 10-1i;2026;65,0;22,0;0,0;23,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS RIJKSUNIVERSITEIT LEIDEN 10-2i;2026;88,0;44,0;0,0;47,0;;10,0;;4,9092;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS RIJNSBURG 10-1i;2026;55,0;44,0;12,0;30,0;;9,0;;1,56142;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS ROZENBURG 10-1i;2026;40,0;40,0;14,0;26,0;;14,0;;8,30848;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS ROZENBURG 10-2i;2026;40,0;40,0;0,0;45,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS RUIGOORD 10-1i;2026;72,0;41,0;33,0;35,0;;14,0;;19,49958;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2033,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS SASSENHEIM 10-1i;2026;58,0;29,0;4,0;10,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS SASSENHEIM 10-2i;2026;42,0;42,0;17,0;33,0;;25,0;;7,5947;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS SCHAGEN 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;;;;Liander;Noord-Holland
+OS SCHAGEN 10-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;;;;Liander;Noord-Holland
+OS SCHAGEN 10-4i;2026;18,0;18,0;19,0;5,0;;6,0;;4,95002;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS SCHALKWIJK 10-1i;2026;34,0;34,0;6,0;42,0;;12,0;;2,32668;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2034,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS SCHENKENSCHANS 10-1i;2026;66,0;33,0;27,0;28,0;12,0;15,0;7,062;7,61246;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS SCHENKENSCHANS 10-2i;2026;58,0;29,0;12,0;25,0;10,0;;2,102;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS SCHENKENSCHANS 10-9i;2026;40,0;40,0;3,0;9,0;9,0;8,0;1,526;1,5145;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Friesland
+OS SCHIPHOL OOST 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2034,0;;;;Liander;Noord-Holland
+OS SCHIPLUIDENLAAN 10-1i;2026;60,0;60,0;0,0;55,0;;21,0;;9,04928;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS SEXTANTWEG 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS SINT ANNAMOLEN 10-1i;2026;44,0;32,0;0,0;29,0;5,0;6,0;0,71;2,63976;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS SLOTERMEER 10-1i;2026;50,0;50,0;0,0;62,0;;13,0;;2,6856;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2033,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS SNEEK 10-1i;2026;57,0;57,0;37,0;44,0;31,0;55,0;5,887;14,28582;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2036,0;2026-01-01;2026-12-31;4;Liander;Friesland
+OS TEERSDIJK 10-1i;2026;69,0;55,0;41,0;49,0;47,0;57,0;10,261;40,54162;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS TEERSDIJK 10-2i;2026;65,0;65,0;65,0;50,0;22,0;48,0;5,579;24,19376;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2030,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Limburg
+OS TEXEL 10-1i;2026;20,0;20,0;9,0;18,0;18,0;21,0;1,745;13,61494;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2028,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS TIEL 10-1i;2026;77,0;37,0;41,0;41,0;48,0;53,0;22,236;19,06852;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2029,0;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS TIEL 10-2i;2026;83,0;37,0;29,0;31,0;35,0;47,0;11,315;21,60136;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS TIEL 20-4i;2026;181,0;90,0;27,0;7,0;9,0;11,0;69,242;18,03814;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS UILENBURG 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS UITGEEST 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2034,0;2034,0;;;;Liander;Noord-Holland
+OS UITHOORN 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS ULFT 10-1i;2026;69,0;69,0;35,0;37,0;23,0;27,0;6,567;4,1863;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2028,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ULFT 20-3i;2026;46,0;46,0;68,0;13,0;14,0;18,0;83,178;22,2986;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2028,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ULKESLUIS 10-1i;2026;40,0;20,0;25,0;14,0;16,0;22,0;3,411;5,42216;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS VAASSEN 10-1i;2026;63,0;42,0;28,0;34,0;25,0;29,0;3,102;6,2461;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland, Overijssel
+OS VELSEN 10-1i;2026;56,0;36,0;23,0;24,0;9,0;36,0;2,615;29,17014;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS VENSERWEG 10-11i;2026;53,0;53,0;0,0;44,0;;10,0;;12,38458;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland, Utrecht
+OS VENSERWEG 10-12i;2026;53,0;53,0;5,0;31,0;;10,0;;1,58946;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS VIJFHUIZEN 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;;;;Liander;Noord-Holland
+OS VIJFHUIZEN 10-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;;;;Liander;Noord-Holland
+OS VLIEGENBOS 10-1i;2026;40,0;40,0;0,0;36,0;;28,0;;8,6227;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WAARDERPOLDER 10-1i;2026;57,0;57,0;0,0;54,0;;12,0;;3,255;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WAARDERPOLDER 10-2i;2026;92,0;57,0;7,0;39,0;;41,0;;28,26926;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WAGENINGEN 10-1i;2026;32,0;32,0;19,0;28,0;10,0;26,0;2,822;6,4384;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS WARMENHUIZEN 10-1i;2026;36,0;36,0;47,0;32,0;32,0;34,0;14,993;18,21912;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2032,0;2032,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WASSENAAR 10-1i;2026;49,0;44,0;4,0;22,0;;6,0;;2,50802;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS WATERGRAAFSMEER 10-2i;2026;73,0;58,0;0,0;43,0;;17,0;;10,04976;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WEESP 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;;;;Liander;Noord-Holland
+OS WEESP 10-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;;;;Liander;Gelderland, Noord-Holland
+OS WEESP 10-9i;2026;20,0;0,0;5,0;10,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WERVERSHOOF 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS WESTHAVEN 10-1i;2026;72,0;39,0;0,0;35,0;;13,0;;4,2829;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WESTHAVEN 10-2i;2026;72,0;39,0;5,0;40,0;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2027,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WESTWOUD 10-4i;2026;39,0;39,0;38,0;27,0;26,0;38,0;25,824;27,95924;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2031,0;2031,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WESTZAANSTRAAT 10-1i;2026;68,0;68,0;0,0;60,0;;18,0;;8,48714;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS WINSELINGSEWEG 10-1i;2026;98,0;65,0;0,0;48,0;16,0;44,0;3,224;8,93184;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS WINSELINGSEWEG 10-2i;2026;55,0;27,0;21,0;15,0;9,0;10,0;1,291;4,49016;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland, Limburg
+OS WINSELINGSEWEG 10-3i;2026;65,0;33,0;8,0;27,0;7,0;20,0;0,855;13,36072;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS WINTERSWIJK 10-1i;2026;114,0;57,0;72,0;43,0;36,0;48,0;14,169;9,19596;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS WOLVEGA 10-2i;2026;83,0;55,0;50,0;29,0;23,0;9,0;5,514;3,5706;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Drenthe, Friesland, Overijssel
+OS WORMERVEER 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS WOUDHUIS 10-1i;2026;109,0;73,0;51,0;29,0;15,0;27,0;5,735;16,70406;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS WOUDHUIS 10-2i;2026;109,0;73,0;25,0;29,0;20,0;26,0;3,04;4,74944;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2032,0;2026-01-01;2026-12-31;4;Liander;Gelderland, Overijssel
+OS ZAANDAM NOORD 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;;;;Liander;Noord-Holland
+OS ZAANDAM WEST 10-1i;2026;53,0;53,0;23,0;50,0;;60,0;;38,43038;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2028,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS ZAANDIJK 50-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS ZALTBOMMEL 10-1i;2026;64,0;64,0;20,0;47,0;43,0;75,0;10,801;25,67812;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2035,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZALTBOMMEL 10-2i;2026;58,0;58,0;20,0;27,0;26,0;23,0;7,067;11,72508;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZALTBOMMEL 20-4i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Gelderland
+OS ZALTBOMMEL 20-5i;2026;145,0;94,0;30,0;25,0;41,0;34,0;54,045;34,4903;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZEEWOLDE 10-1i;2026;42,0;42,0;23,0;27,0;23,0;31,0;5,101;8,93702;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ZEEWOLDE 20KV 20-7i;2026;100,0;100,0;68,0;67,0;48,0;49,0;50,273;42,46906;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ZEEWOLDE 20KV 20-8i;2026;88,0;88,0;49,0;6,0;;6,0;;73,62346;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ZEEWOLDE 20KV 20-9i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Flevoland
+OS ZEVENAAR 10-1i;2026;128,0;64,0;41,0;48,0;30,0;51,0;9,172;5,90332;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZEVENAAR 10-3i;2026;127,0;64,0;63,0;60,0;46,0;60,0;25,966;38,72168;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZEVENHUIZEN 10-1i;2026;30,0;30,0;24,0;21,0;;7,0;;4,24122;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS ZEVENHUIZEN 10-2i;2026;30,0;30,0;43,0;27,0;6,0;11,0;1,907;13,69092;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2027,0;2027,0;2026-01-01;2026-12-31;4;Liander;Groningen, Zuid-Holland
+OS ZOETERWOUDE 10-2i;2026;30,0;30,0;15,0;28,0;;7,0;;2,54108;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Zuid-Holland
+OS ZORGVLIED 20-3i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+OS ZORGVLIED 20-4i;2026;110,0;88,0;0,0;68,0;;33,0;;10,48358;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2030,0;2026-01-01;2026-12-31;4;Liander;Noord-Holland
+OS ZUIDBROEK 20-1i;2026;132,0;88,0;52,0;25,0;34,0;48,0;9,615;21,79626;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZUIDERVELD 10-1i;2026;69,0;69,0;19,0;63,0;37,0;70,0;10,847;18,63028;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2029,0;2026-01-01;2026-12-31;4;Liander;Flevoland
+OS ZUILICHEM 20-1i;2026;88,0;88,0;33,0;49,0;18,0;21,0;51,143;46,72724;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;2033,0;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZUTPHEN 10-1i;2026;57,0;57,0;25,0;30,0;12,0;38,0;2,329;10,03358;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;2030,0;;2026-01-01;2026-12-31;4;Liander;Gelderland
+OS ZUTPHEN 10-2i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Gelderland, Overijssel
+OS ZUTPHEN 20-3i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Gelderland, Overijssel
+OTD;2026;96,45;111,55;50,99554939383579;83,79084112556315;58,0;107,0;27,197;127,436;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Noord-Brabant
+PCH;2026;40,08;43,19;29,042667060349;26,91876762070239;38,0;55,0;36,455;26,206;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Noord-Brabant
+RMND;2026;33,25;36,58;5,9135143219213;24,08829882477681;8,0;14,0;1,309;1,471;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2034,0;;;;Enexis;Limburg
+RS;2026;43,58;43,58;45,478820805;39,77283778276905;58,0;65,0;15,946;17,409;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2028,0;2028,0;;;;Enexis;Overijssel
+RS HOOGWOUD 10-4i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+RS HOOGWOUD 10-5i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Noord-Holland
+RSD;2026;236,97;245,91;105,6265250577938;102,8806046252711;79,0;177,0;29,773;97,069;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Noord-Brabant
+RT;2026;52,99;53,52;53,2257404569242;48,43011628939319;48,0;49,0;13,981;5,167;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2027,0;2027,0;;;;Enexis;Overijssel
+SBRN;2026;76,34;77,12;33,9566564;50,30692733687488;18,0;34,0;17,516;5,162;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2032,0;2025,0;;;;Enexis;Limburg
+SKN;2026;113,54;113,54;;;26,0;18,0;6,153;3,797;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;;;;;Enexis;Drenthe, Groningen
+SW;2026;85,99;85,99;32,5701110024023;37,01430586111137;24,0;15,0;36,92;8,23;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2025,0;;;;Enexis, Rendo;Drenthe, Friesland, Overijssel
+TBC;2026;69,2;69,2;1,6269040788632;46,79437981780982;18,0;51,0;2,308;17,403;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Noord-Brabant
+TBG;2026;43,51;45,23;27,9687365927994;18,75447187847293;21,0;18,0;2,565;2,481;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Overijssel
+TBN;2026;131,01;141,13;62,14013210229698;133,7393806306565;103,0;153,0;37,817;68,093;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Noord-Brabant
+TBW;2026;155,1;155,49;31,6646081296751;88,88725299508765;45,0;70,0;35,843;24,453;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Noord-Brabant
+TBZ;2026;122,0;136,68;73,31657827753239;118,9796956276516;101,0;144,0;23,069;37,054;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2027,0;2027,0;;;;Enexis;Noord-Brabant
+TERW;2026;151,32;156,9;78,0948882332858;105,9988985652641;53,0;115,0;45,739;59,071;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2030,0;2030,0;;;;Enexis;Limburg
+TH002_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH002_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH003_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH008_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH009_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht, Zuid-Holland
+TH010_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH011_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH021_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH021_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH027_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH027_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH029_10;2026;;;;;0,0;17,0;0,0;90,544;;;;;;;;;;Stedin;Zuid-Holland
+TH039_23;2026;;;;;0,0;6,0;0,0;4,226;;;;;;;;;;Stedin;Zuid-Holland
+TH039_25;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH053_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH056_25;2026;;;;;0,0;7,0;0,0;48,311;;;;;;;;;;Stedin;Zuid-Holland
+TH058_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH058_25_1;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH060_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH061_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH064_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TH086_13;2026;;;;;0,0;31,0;0,0;40,767;;;;;;;;;;Stedin;Zuid-Holland
+TH201_10_A;2026;;;;;0,0;13,0;0,0;38,15;;;;;;;;;;Stedin;Zeeland
+TH201_10_B;2026;;;;;0,0;13,0;0,0;38,149;;;;;;;;;;Stedin;Zeeland
+TH202_10;2026;;;;;0,0;13,0;0,0;4,082;;;;;;;;;;Stedin;Zeeland
+TH203_10_A;2026;;;;;0,0;18,0;0,0;71,139;;;;;;;;;;Stedin;Zeeland
+TH203_10_B;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH209_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zeeland
+TH210_10;2026;;;;;0,0;22,0;0,0;11,555;;;;;;;;;;Stedin;Zeeland
+TH212_10_AB;2026;;;;;0,0;17,0;0,0;6,76;;;;;;;;;;Stedin;Zeeland
+TH212_10_C;2026;;;;;;;;;;;;;;;;;;Stedin;Zeeland
+TH215_10_A;2026;;;;;0,0;18,0;0,0;68,591;;;;;;;;;;Stedin;Zeeland
+TH226_10_A;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH226_10_B;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TH230_10;2026;;;;;0,0;8,0;0,0;16,795;;;;;;;;;;Stedin;Zeeland
+TH231_20;2026;;;;;0,0;6,0;0,0;104,925;;;;;;;;;;Stedin;
+TRBK;2026;54,86;65,84;34,9253182231664;59,63484111027127;17,0;36,0;1,672;12,075;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2029,0;;;;Enexis;Limburg
+TS004_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Noord-Holland
+TS040_10;2026;;;;;7,0;18,0;1,078;3,021;;;;;;;;;;Stedin;Noord-Holland, Utrecht, Zuid-Holland
+TS041_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS043_10;2026;;;;;8,0;12,0;1,161;4,081;;;;;;;;;;Stedin;Utrecht
+TS044_10;2026;;;;;2,0;6,0;;1,388;;;;;;;;;;Stedin;Utrecht
+TS045_10;2026;;;;;8,0;14,0;1,702;7,668;;;;;;;;;;Stedin;Utrecht
+TS046_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS047_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS048_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS049_10;2026;;;;;8,0;20,0;1,952;4,749;;;;;;;;;;Stedin;Gelderland, Utrecht
+TS051_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS052_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TS054_10;2026;;;;;4,0;8,0;0,643;0,912;;;;;;;;;;Stedin;Utrecht
+TS055_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS056_10;2026;;;;;8,0;14,0;5,461;5,986;;;;;;;;;;Stedin;Utrecht
+TS058_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Gelderland, Utrecht
+TS059_10;2026;;;;;14,0;24,0;3,872;6,324;;;;;;;;;;Stedin;Utrecht
+TS060_10;2026;;;;;5,0;14,0;0,498;2,858;;;;;;;;;;Stedin;Utrecht
+TS061_10;2026;;;;;4,0;13,0;0,723;3,253;;;;;;;;;;Stedin;Utrecht
+TS062_10;2026;;;;;9,0;15,0;0,747;5,644;;;;;;;;;;Stedin;Gelderland, Utrecht
+TS064_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS066_10;2026;;;;;12,0;23,0;2,857;7,476;;;;;;;;;;Stedin;Utrecht
+TS067_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS068_10;2026;;;;;6,0;12,0;0,539;4,762;;;;;;;;;;Stedin;Utrecht
+TS069_10;2026;;;;;4,0;11,0;0,512;3,377;;;;;;;;;;Stedin;Noord-Holland, Utrecht
+TS070_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Noord-Holland, Utrecht, Zuid-Holland
+TS071_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS072_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS073_10;2026;;;;;7,0;13,0;2,939;7,309;;;;;;;;;;Stedin;Utrecht
+TS074_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS075_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS076_10;2026;;;;;1,0;11,0;;5,768;;;;;;;;;;Stedin;
+TS077_10;2026;;;;;10,0;28,0;0,479;6,846;;;;;;;;;;Stedin;Utrecht
+TS078_10;2026;;;;;3,0;9,0;0,145;0,47;;;;;;;;;;Stedin;
+TS079_10;2026;;;;;4,0;14,0;2,49;2,768;;;;;;;;;;Stedin;
+TS080_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TS081_10;2026;;;;;4,0;20,0;3,295;6,964;;;;;;;;;;Stedin;Utrecht
+TS083_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TS084_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Noord-Holland, Utrecht
+TS085_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Utrecht
+TT002_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT004_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT005_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT006_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT008_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT010_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT011_10;2026;;;;;0,0;10,0;0,0;5,205;;;;;;;;;;Stedin;Zuid-Holland
+TT013_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT014_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT015_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT016_10;2026;;;;;0,0;13,0;0,0;4,604;;;;;;;;;;Stedin;
+TT018_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT019_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT020_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT022_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT023_10;2026;;;;;0,0;9,0;0,0;5,291;;;;;;;;;;Stedin;
+TT024_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT024_25;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT025_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT026_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT028_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT029_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT030_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT031_10;2026;;;;;0,0;17,0;0,0;15,644;;;;;;;;;;Stedin;
+TT032_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT033_10;2026;;;;;0,0;5,0;0,0;0,335;;;;;;;;;;Stedin;Zuid-Holland
+TT034_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT035_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT037_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT038_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT039_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT040_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT041_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT041_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT042_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT043_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT044_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT045_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT046_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT047_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT048_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT049_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT050_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT051_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT052_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT053_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT054_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT054_25;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT055_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT056_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT057_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT058_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT059_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT061_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT062_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT063_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT065_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT066_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT068_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT068_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT069_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT070_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT071_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT072_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT073_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT075_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT076_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT078_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT079_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT080_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT081_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT082_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT084_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT085_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Gelderland
+TT088_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT089_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT091_13;2026;;;;;0,0;11,0;0,0;4,276;;;;;;;;;;Stedin;Zuid-Holland
+TT092_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT094_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT095_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT102_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT103_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT104_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT105_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT106_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT107_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT108_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT110_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT113_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT114_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT115_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT119_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT120_10;2026;;;;;1,0;4,0;;1,634;;;;;;;;;;Stedin;Zuid-Holland
+TT133_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT134_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT137_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT141_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT143_13;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT146_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TT211_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT219_10_A;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zeeland
+TT219_10_B;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;
+TT220_10;2026;;;;;0,0;14,0;0,0;7,579;;;;;;;;;;Stedin;Zeeland
+TT224_10_A;2026;;;;;0,0;13,0;0,0;11,881;;;;;;;;;;Stedin;Zeeland
+TT228_10;2026;;;;;0,0;16,0;0,0;1,487;;;;;;;;;;Stedin;Zeeland
+TZ001_23;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TZ018_10;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+TZ020_25;2026;;;;;0,0;0,0;0,0;0,0;;;;;;;;;;Stedin;Zuid-Holland
+UD;2026;99,04;111,3;106,1707775;103,3717430454186;114,0;154,0;54,117;54,176;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Noord-Brabant
+VDM;2026;154,74;155,43;92,82840979;57,42743816028897;37,0;19,0;62,568;5,442;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2025,0;;;;Enexis;Drenthe, Groningen
+VENR;2026;195,8;203,87;120,8607474137243;97,54689326994281;128,0;168,0;321,52;73,958;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Limburg, Noord-Brabant
+VH;2026;68,5;72,3;60,1999041;52,38721352882978;44,0;49,0;39,952;20,131;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2028,0;;;;Enexis;Overijssel
+VLH;2026;33,66;34,0;21,2703873212284;20,70957899255978;3,0;8,0;0,144;20,871;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2032,0;;;;Enexis;Flevoland, Overijssel
+VLH DE VOORST 61 10-1i;2026;;;;;;;;;;;;https://www.liander.nl/grootzakelijk/capaciteit-op-het-net/congestieonderzoeken;;;;;;Liander;Flevoland, Friesland, Overijssel
+VO;2026;23,94;23,94;28,79027957139947;20,78433200783538;22,0;25,0;20,59;12,229;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Drenthe
+VVL10;2026;174,3;174,3;51,8345112;112,2721298726225;40,0;61,0;19,401;43,006;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2025,0;;;;Enexis;Drenthe, Friesland, Groningen
+WDT;2026;83,6;91,91;34,9445279975;56,17501126344815;22,0;51,0;7,107;26,06;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2027,0;;;;Enexis;Noord-Brabant
+WEW;2026;509,12;518,04;383,947005004;194,2209818974711;46,0;11,0;83,121;12,147;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;2025,0;;;;Enexis;Groningen
+WRTH;2026;70,49;78,16;41,6207806;53,71490911914186;24,0;22,0;15,688;9,723;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2025,0;;;;Enexis;Limburg
+WS;2026;52,78;58,02;0,03743;;14,0;7,0;2,945;2,941;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Groningen
+WSMR;2026;171,83;176,84;49,100082215;50,05792219989824;23,0;37,0;5,386;11,77;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Friesland, Groningen
+WVV;2026;33,0;36,58;5,146800102225201;24,25276516872094;21,0;31,0;2,823;9,782;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;;;;;Enexis;Limburg
+WW;2026;152,48;167,51;84,39506106539999;99,91764929030992;124,0;161,0;81,336;72,239;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2029,0;;;;Enexis;Noord-Brabant
+Westerlee;2026;378,0;378,0;378,0;240,0;171,0;0,0;104,0;0,0;;;;;;;;;;Westland;Zuid-Holland
+ZLF;2026;89,55;89,55;33,6210278979676;55,05949938761463;27,0;45,0;10,86;24,155;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2025,0;2029,0;;;;Enexis;Overijssel
+ZLH;2026;90,73;90,73;80,2809489999998;70,25692480433361;32,0;41,0;96,695;45,921;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;;;;;;Enexis;Overijssel
+ZLW;2026;84,99;88,19;40,0586435477508;66,60468729958747;51,0;79,0;29,301;28,403;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2031,0;2031,0;;;;Enexis;Overijssel
+ZS;2026;62,13;65,48;24,778826;46,21054691253649;35,0;26,0;18,043;9,546;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2029,0;2025,0;;;;Enexis;Drenthe, Overijssel
+ZYV;2026;206,99;208,37;103,9804519127371;68,68309346812008;19,0;34,0;46,318;3,869;;;;https://www.enexis.nl/zakelijk/netcapaciteit/congestie/congestie-onderzoeken;2026,0;2026,0;;;;Enexis;Drenthe
