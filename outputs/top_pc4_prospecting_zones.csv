@@ -1,0 +1,43 @@
+global_rank,rank_in_area,pc4,supply_area_name,regional_grid_operator,industry,relevance,pc6_count,mean_val_score,pct_red_consumption,pct_red_generation,pc4_score
+1,1,1771,Medemblik Transformator 1,Liander,Hyperscale Data Centers (Google/MSFT) & Agri-lighting,3 - High (Modern EII),4,0.47016929185941403,1.0,0.0,0.6972870554763291
+2,2,1775,Medemblik Transformator 1,Liander,Hyperscale Data Centers (Google/MSFT) & Agri-lighting,3 - High (Modern EII),3,0.47016929185941403,1.0,0.0,0.6968153573631215
+3,1,1398,OS WEESP 10-9i,Liander,E-commerce Fulfillment & Office Parks,10 - Very Low,127,0.5687500000055281,1.0,0.0,0.594433962264151
+4,1,7833,VO Veenoord,Enexis,Chemical & Polymers (Getec Industrial Park),1 - Extremely High,165,0.16968378525483277,1.0,1.0,0.586798368256779
+5,2,7887,VO Veenoord,Enexis,Chemical & Polymers (Getec Industrial Park),1 - Extremely High,133,0.16968378525483277,1.0,1.0,0.5717040286341375
+6,2,1384,OS WEESP 10-9i,Liander,E-commerce Fulfillment & Office Parks,10 - Very Low,54,0.5687500000055281,1.0,0.0,0.56
+7,3,7844,VO Veenoord,Enexis,Chemical & Polymers (Getec Industrial Park),1 - Extremely High,73,0.16968378525483277,1.0,1.0,0.5434021418416848
+8,3,1382,OS WEESP 10-9i,Liander,E-commerce Fulfillment & Office Parks,10 - Very Low,1,0.5687500000055281,1.0,0.0,0.535
+9,1,6021,MZ Maarheeze,Enexis,Heavy Manufacturing & Metal Processing,2 - High (Concentrated),275,0.23513436122444872,0.0,1.0,0.5095401926154015
+10,2,6026,MZ Maarheeze,Enexis,Metallurgy (Nyrstar Zinc Smelter),2 - High (Concentrated),166,0.2351343612244487,0.0,1.0,0.45812509827577885
+11,1,5801,VENR Venray,Enexis,Pharma Manufacturing & Food Processing Systems,7 - Medium-Low,297,0.18695965698775632,1.0,1.0,0.4538056188986528
+12,3,5712,MZ Maarheeze,Enexis,Automotive & Heavy Metal Processing,4 - Medium-High,203,0.23513436122444872,0.0,1.0,0.40557792846445806
+13,4,7761,VO Veenoord,Enexis,Oil Extraction (Schoonebeek field) & Infrastructure,6 - Medium,150,0.16968378525483277,1.0,1.0,0.4047228965586659
+14,4,5591,MZ Maarheeze,Enexis,High-Tech Precision Machinery Supply Chain,5 - Medium,255,0.23513436122444872,0.0,1.0,0.3951062303512506
+15,1,8271,ISM IJsselmuiden,Enexis,Concrete Fabrication & Maritime Engineering,8 - Low-Medium,247,0.18464087563415052,1.0,0.0,0.39324188257758974
+16,1,7081,OS ULFT 20-3i,Liander,Metal Foundries & Smart Industry Fabrication,4 - Medium-High,114,0.26794285042072874,0.0,0.0,0.39159531563333605
+17,2,5802,VENR Venray,Enexis,Pharma Manufacturing & Food Processing Systems,7 - Medium-Low,192,0.18695965698775632,0.890625,0.890625,0.38787106701186025
+18,3,5854,VENR Venray,Enexis,Pharma Manufacturing & Food Processing Systems,7 - Medium-Low,153,0.18695965698775632,1.0,1.0,0.3858810905967659
+19,4,5825,VENR Venray,Enexis,Pharma Manufacturing & Food Processing Systems,7 - Medium-Low,102,0.1869596569877563,1.0,1.0,0.361824486823181
+20,2,7078,OS ULFT 20-3i,Liander,Metal Foundries & Smart Industry Fabrication,4 - Medium-High,42,0.26794285042072874,0.0,0.0,0.35763305148239266
+21,5,7765,VO Veenoord,Enexis,Industrial Plastics Extrusion,6 - Medium,46,0.16968378525483277,1.0,1.0,0.355666292785081
+22,3,7051,OS ULFT 20-3i,Liander,Metal Foundries & Smart Industry Fabrication,4 - Medium-High,29,0.26794285042072874,0.0,0.0,0.3515009760106945
+23,5,5855,VENR Venray,Enexis,Pharma Manufacturing & Food Processing Systems,7 - Medium-Low,77,0.18695965698775632,1.0,1.0,0.3500320339929923
+24,4,7077,OS ULFT 20-3i,Liander,Metal Foundries & Smart Industry Fabrication,4 - Medium-High,20,0.26794285042072874,0.0,0.0,0.3472556929918266
+25,5,7122,OS ULFT 20-3i,Liander,Heavy Engineering & Manufacturing,4 - Medium-High,16,0.26794285042072874,0.0,0.0,0.34536890053899644
+26,5,5595,MZ Maarheeze,Enexis,High-Tech Precision Machinery Supply Chain,5 - Medium,119,0.23513436122444872,0.0,1.0,0.3309552869550242
+27,2,8274,ISM IJsselmuiden,Enexis,Agro-Industrial Assembly,8 - Low-Medium,24,0.18464087563415052,1.0,0.0,0.2880532033323068
+28,3,8267,ISM IJsselmuiden,Enexis,Agro-Industrial Assembly,8 - Low-Medium,21,0.18464087563415052,1.0,0.0,0.2866381089926841
+29,4,8277,ISM IJsselmuiden,Enexis,Agro-Industrial Assembly,8 - Low-Medium,20,0.18464087563415052,1.0,0.0,0.2861664108794766
+30,1,2266,Stompwijk en Leidschendam-Zuid,Stedin,Light Commercial & Research Parks,9 - Low,129,0.16095681175869622,1.0,1.0,0.28236970228498237
+31,5,8269,ISM IJsselmuiden,Enexis,Agro-Industrial Assembly,8 - Low-Medium,9,0.18464087563415052,1.0,0.0,0.28097773163419354
+32,1,7721,ZLH Zwolle Hessenweg,Enexis,Light-Medium Industrial Manufacturing,6 - Medium,209,0.16147426058349792,0.0,0.0,0.27554713829770905
+33,2,7722,ZLH Zwolle Hessenweg,Enexis,Light-Medium Industrial Manufacturing,6 - Medium,97,0.16147426058349792,0.0,0.0,0.22271694961846378
+34,2,2492,Stompwijk en Leidschendam-Zuid,Stedin,Logistics & Light Assembly,9 - Low,1,0.16095681175869622,1.0,1.0,0.22199234379441635
+34,2,2381,Stompwijk en Leidschendam-Zuid,Stedin,Light Commercial & Research Parks,9 - Low,1,0.16095681175869622,1.0,1.0,0.22199234379441635
+36,1,2741,Waddinxveen,Stedin,Business Parks & Mixed Light Commerce,9 - Low,319,0.15862219579976206,0.0,0.0,0.21999999999999997
+42,3,8024,ZLH Zwolle Hessenweg,Enexis,Automotive Assembly (Scania) & Logistics,7 - Medium-Low,129,0.16147426058349792,0.0,0.0,0.20281128924110525
+46,2,2742,Waddinxveen,Stedin,Business Parks & Mixed Light Commerce,9 - Low,269,0.15862219579976206,0.0,0.0,0.19641509433962262
+70,4,8028,ZLH Zwolle Hessenweg,Enexis,Automotive Assembly (Scania) & Logistics,7 - Medium-Low,33,0.16147426058349792,0.0,0.0,0.15752827037318073
+71,5,8035,ZLH Zwolle Hessenweg,Enexis,Automotive Assembly (Scania) & Logistics,7 - Medium-Low,22,0.16147426058349792,0.0,0.0,0.15233959112789772
+74,3,2743,Waddinxveen,Stedin,Business Parks & Mixed Light Commerce,9 - Low,131,0.15862219579976206,0.0,0.0,0.13132075471698113
+87,4,2803,Waddinxveen,Stedin,Logistics & Distribution Centers,9 - Low,1,0.15862219579976206,0.0,0.0,0.06999999999999999
